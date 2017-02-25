@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  cpp_console_first_app.cpp
+cpp_console_first_app.cpp(24): warning C4101: 'box1': unreferenced local variable
+  Generating code
+  All 136 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cpp_console_first_app.vcxproj -> C:\Users\Pim\Desktop\cpp_console_first_app\Release\cpp_console_first_app.exe
+  cpp_console_first_app.vcxproj -> C:\Users\Pim\Desktop\cpp_console_first_app\Release\cpp_console_first_app.pdb (Full PDB)

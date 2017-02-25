@@ -1,0 +1,5 @@
+﻿  cpp_console_first_app.cpp
+c:\users\pim\desktop\cpp_console_first_app\cpp_console_first_app\cpp_console_first_app.cpp(29): warning C4101: 'rndData': unreferenced local variable
+c:\users\pim\desktop\cpp_console_first_app\cpp_console_first_app\cpp_console_first_app.cpp(24): warning C4101: 'box1': unreferenced local variable
+  cpp_console_first_app.vcxproj -> C:\Users\Pim\Desktop\cpp_console_first_app\Debug\cpp_console_first_app.exe
+  cpp_console_first_app.vcxproj -> C:\Users\Pim\Desktop\cpp_console_first_app\Debug\cpp_console_first_app.pdb (Full PDB)
